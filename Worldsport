@@ -1,441 +1,70 @@
 #EXTM3U
 
-#EXTINF:-1,AR:beIN SPORT 1 HD
-http://188.93.238.184:8000/live/snet/snet/37774.ts
-#EXTINF:-1,AR:beIN SPORT 2 HD.
-http://188.93.238.184:8000/live/snet/snet/37775.ts
-#EXTINF:-1,AR:beIN SPORT 3 HD
-http://188.93.238.184:8000/live/snet/snet/37776.ts
-#EXTINF:-1,AR:beIN SPORT 4 HD
-http://188.93.238.184:8000/live/snet/snet/37777.ts
-#EXTINF:-1,AR:beIN SPORT 5 HD
-http://188.93.238.184:8000/live/snet/snet/37778.ts
-#EXTINF:-1,AR:beIN SPORT 6 HD
-http://188.93.238.184:8000/live/snet/snet/37779.ts
-#EXTINF:-1,AR:beIN SPORT 7 HD
-http://188.93.238.184:8000/live/snet/snet/37780.ts
-#EXTINF:-1,AR:beIN SPORT 8 HD
-http://188.93.238.184:8000/live/snet/snet/37781.ts
-#EXTINF:-1,AR:beIN SPORT 9 HD
-http://188.93.238.184:8000/live/snet/snet/37782.ts
-#EXTINF:-1,AR:beIN SPORT 10 HD
-http://188.93.238.184:8000/live/snet/snet/37783.ts
-#EXTINF:-1,AR:beIN SPORT 11 HD
-http://188.93.238.184:8000/live/snet/snet/37784.ts
-#EXTINF:-1,AR:beIN SPORT 12 HD
-http://188.93.238.184:8000/live/snet/snet/37785.ts
-#EXTINF:-1,Rom: Sport Klub 1 HD
-http://188.93.238.184:8000/live/snet/snet/37786.ts
-#EXTINF:-1,Rom: Sport Klub 2 HD
-http://188.93.238.184:8000/live/snet/snet/37787.ts
-#EXTINF:-1,Rom:  Sport Klub 3 HD
-http://188.93.238.184:8000/live/snet/snet/37788.ts
-#EXTINF:-1,Albanian Super Sports 1 HD
-http://188.93.238.184:8000/live/snet/snet/37807.ts
-#EXTINF:-1,Albanian Super Sports 2 HD
-http://188.93.238.184:8000/live/snet/snet/37808.ts
-#EXTINF:-1,Albanian Super Sports 3 HD
-http://188.93.238.184:8000/live/snet/snet/37809.ts
-#EXTINF:-1,Albanian Super Sports 4 HD
-http://188.93.238.184:8000/live/snet/snet/37810.ts
-#EXTINF:-1,AR: Bein Sports 8 HD
-http://188.93.238.184:8000/live/snet/snet/375.ts
-#EXTINF:-1,AR: Bein Sports 9 HD
-http://188.93.238.184:8000/live/snet/snet/376.ts
-#EXTINF:-1,AR: MBC Action (.)
-http://188.93.238.184:8000/live/snet/snet/648.ts
-#EXTINF:-1,AR: MBC Drama (.)
-http://188.93.238.184:8000/live/snet/snet/649.ts
-#EXTINF:-1,Arena Sports 1 HD
-http://188.93.238.184:8000/live/snet/snet/37803.ts
-#EXTINF:-1,Arena Sports 2 HD
-http://188.93.238.184:8000/live/snet/snet/37804.ts
-#EXTINF:-1,Arena Sports 3 HD
-http://188.93.238.184:8000/live/snet/snet/37805.ts
-#EXTINF:-1,Arena Sports 4 HD
-http://188.93.238.184:8000/live/snet/snet/37806.ts
-#EXTINF:-1,DE SKY SPORTS 1HD
-http://188.93.238.184:8000/live/snet/snet/37801.ts
-#EXTINF:-1,DE SKY SPORTS 2HD
-http://188.93.238.184:8000/live/snet/snet/37802.ts
-#EXTINF:-1,OSN Sports 1HD
-http://188.93.238.184:8000/live/snet/snet/37796.ts
-#EXTINF:-1,OSN Sports 2HD
-http://188.93.238.184:8000/live/snet/snet/37797.ts
-#EXTINF:-1,OSN Sports 3HD
-http://188.93.238.184:8000/live/snet/snet/37798.ts
-#EXTINF:-1,OSN Sports 4HD
-http://188.93.238.184:8000/live/snet/snet/37799.ts
-#EXTINF:-1,Dubai Sports Arab
-http://188.93.238.184:8000/live/snet/snet/37824.ts
-#EXTINF:-1,AD: Abu Dhabi Sports 1
-http://188.93.238.184:8000/live/snet/snet/2964.ts
-#EXTINF:-1,Sw: VIASAT SPORT
-http://188.93.238.184:8000/live/snet/snet/37789.ts
-#EXTINF:-1,PL Eleven Sports HD
-http://188.93.238.184:8000/live/snet/snet/37825.ts
-#EXTINF:-1,USA TSN 1HD
-http://188.93.238.184:8000/live/snet/snet/37793.ts
-#EXTINF:-1,USA TSN 2HD
-http://188.93.238.184:8000/live/snet/snet/37792.ts
-#EXTINF:-1,USA TSN 3HD
-http://188.93.238.184:8000/live/snet/snet/37795.ts
-#EXTINF:-1,USA TSN 4HD
-http://188.93.238.184:8000/live/snet/snet/37790.ts
-#EXTINF:-1,USA TSN 5HD
-http://188.93.238.184:8000/live/snet/snet/37791.ts
-#EXTINF:-1,USA SportsNet 360
-http://188.93.238.184:8000/live/snet/snet/37794.ts
-#EXTINF:-1,US CBS Sports
-http://188.93.238.184:8000/live/snet/snet/37815.ts
-#EXTINF:-1,US FOX SPORTS 1 HD
-http://188.93.238.184:8000/live/snet/snet/37800.ts
-#EXTINF:-1,US FOX SPORTS 2 HD
-http://188.93.238.184:8000/live/snet/snet/37811.ts
-#EXTINF:-1,US Sports Net Ontario HD
-http://188.93.238.184:8000/live/snet/snet/37814.ts
-#EXTINF:-1,US Sports Net World HD
-http://188.93.238.184:8000/live/snet/snet/37812.ts
-#EXTINF:-1,UK@ Sky Sports Main Event HD
-http://188.93.238.184:8000/live/snet/snet/36512.ts
-#EXTINF:-1,UK@ Sky Sports Main Event SD
-http://188.93.238.184:8000/live/snet/snet/37954.ts
-#EXTINF:-1,UK@ Sky Sports Main Event (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/36513.ts
-#EXTINF:-1,UK@ Sky Sports Main Event (Backup-2)
-http://188.93.238.184:8000/live/snet/snet/37826.ts
-#EXTINF:-1,UK@ Sky Sports Prem Lge HD
-http://188.93.238.184:8000/live/snet/snet/36514.ts
-#EXTINF:-1,UK@ Sky Sports Prem Lge (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/13633.ts
-#EXTINF:-1,UK@ Sky Sports Football HD
-http://188.93.238.184:8000/live/snet/snet/12451.ts
-#EXTINF:-1,UK@ Sky Sports Football (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/37400.ts
-#EXTINF:-1,UK@ Sky Sports Football (Backup-2)
-http://188.93.238.184:8000/live/snet/snet/36511.ts
-#EXTINF:-1,UK@ Sky Sports Cricket HD
-http://188.93.238.184:8000/live/snet/snet/37955.ts
-#EXTINF:-1,UK@ Sky Sports Cricket (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/16599.ts
-#EXTINF:-1,UK@ Sky Sports F1 HD
-http://188.93.238.184:8000/live/snet/snet/9721.ts
-#EXTINF:-1,UK@ Sky Sports F1(Backup-1)
-http://188.93.238.184:8000/live/snet/snet/9722.ts
-#EXTINF:-1,UK@ Sky Sports Arena HD
-http://188.93.238.184:8000/live/snet/snet/11911.ts
-#EXTINF:-1,UK@ Sky Sports Arena (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/37294.ts
-#EXTINF:-1,UK@ Sky Sports Arena (Backup-2)
-http://188.93.238.184:8000/live/snet/snet/37834.ts
-#EXTINF:-1,UK@ Sky Sports News HQ
-http://188.93.238.184:8000/live/snet/snet/9725.ts
-#EXTINF:-1,UK@ Sky Sports News (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/37299.ts
-#EXTINF:-1,UK@Sky Sports Golf HD
-http://188.93.238.184:8000/live/snet/snet/37569.ts
-#EXTINF:-1,UK@ Sky Sports Golf (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/32594.ts
-#EXTINF:-1,UK@ Sky Sports Golf (Backup-2)
-http://188.93.238.184:8000/live/snet/snet/37836.ts
-#EXTINF:-1,UK@ Sky Sports Action HD
-http://188.93.238.184:8000/live/snet/snet/36509.ts
-#EXTINF:-1,UK@ Sky Sports Action (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/36510.ts
-#EXTINF:-1,UK@ Sky Sports Mix HD
-http://188.93.238.184:8000/live/snet/snet/9723.ts
-#EXTINF:-1,UK@ Sky Sports Mix (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/29507.ts
-#EXTINF:-1,UK@ Eurosport 1 HD
-http://188.93.238.184:8000/live/snet/snet/29815.ts
-#EXTINF:-1,UK@ Eurosport 2 HD
-http://188.93.238.184:8000/live/snet/snet/10763.ts
-#EXTINF:-1,UK@ BT Sport 1 HD
-http://188.93.238.184:8000/live/snet/snet/36515.ts
-#EXTINF:-1,UK@ BT Sport 1 (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/32859.ts
-#EXTINF:-1,UK@ BT Sport 1 (Backup-2)
-http://188.93.238.184:8000/live/snet/snet/37155.ts
-#EXTINF:-1,UK@ BT Sport 2 HD
-http://188.93.238.184:8000/live/snet/snet/37956.ts
-#EXTINF:-1,UK@ BT Sport 2 (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/37153.ts
-#EXTINF:-1,UK@ BT Sport 2 (Backup-2)
-http://188.93.238.184:8000/live/snet/snet/36508.ts
-#EXTINF:-1,UK@ BT Sport 3 HD
-http://188.93.238.184:8000/live/snet/snet/32931.ts
-#EXTINF:-1,UK@ BT Sport 3 (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/32223.ts
-#EXTINF:-1,UK@ BT Sport 3 (Backup-2)
-http://188.93.238.184:8000/live/snet/snet/37839.ts
-#EXTINF:-1,UK@ BT Sport Espn HD
-http://188.93.238.184:8000/live/snet/snet/10759.ts
-#EXTINF:-1,UK@ BT Sport Espn (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/10760.ts
-#EXTINF:-1,UK@ BT Sport Espn (Backup-2)
-http://188.93.238.184:8000/live/snet/snet/37841.ts
-#EXTINF:-1,MY@ .Astro Sports
-http://188.93.238.184:8000/live/snet/snet/36505.ts
-#EXTINF:-1,MY@ .SkyNet Sports 1
-http://188.93.238.184:8000/live/snet/snet/36504.ts
-#EXTINF:-1,MY@ .SkyNet Sports 2
-http://188.93.238.184:8000/live/snet/snet/36503.ts
-#EXTINF:-1,MY@ .SkyNet Sports 3
-http://188.93.238.184:8000/live/snet/snet/36502.ts
-#EXTINF:-1,MY@ .SkyNet Sports 4
-http://188.93.238.184:8000/live/snet/snet/36501.ts
-#EXTINF:-1,MY@ .SkyNet Sports 5
-http://188.93.238.184:8000/live/snet/snet/36500.ts
-#EXTINF:-1,MY@ .SkyNet Sports 6
-http://188.93.238.184:8000/live/snet/snet/36499.ts
-
-#EXTINF:-1,BeIN Sport 1 ID
-http://103.233.241.161:8888/live/2/2/728.ts
-#EXTINF:-1,BeIN Sport 2 ID
-http://103.233.241.161:8888/live/2/2/729.ts
-#EXTINF:-1,BeIN Sport 3 ID
-http://103.233.241.161:8888/live/2/2/730.ts
-#EXTINF:-1,Fox Sports 1
-http://103.233.241.161:8888/live/2/2/51.ts
-#EXTINF:-1,Fox Sports 2
-http://103.233.241.161:8888/live/2/2/102.ts
-#EXTINF:-1,Fox Sports 3
-http://103.233.241.161:8888/live/2/2/101.ts
-#EXTINF:-1,Skynet HD
-http://103.233.241.161:8888/live/2/2/679.ts
-#EXTINF:-1,Sony Ten 1 HD Airtel
-http://103.233.241.161:8888/live/2/2/619.ts
-#EXTINF:-1,Sony Ten 1 SD Airtel
-http://103.233.241.161:8888/live/2/2/620.ts
-#EXTINF:-1,Sony Ten 2 HD Airtel
-http://103.233.241.161:8888/live/2/2/621.ts
-#EXTINF:-1,Sony Ten 2 SD Airtel
-http://103.233.241.161:8888/live/2/2/622.ts
-#EXTINF:-1,Sony Ten 3 HD Airtel
-http://103.233.241.161:8888/live/2/2/623.ts
-#EXTINF:-1,Sony Ten 3 SD Airtel
-http://103.233.241.161:8888/live/2/2/624.ts
-#EXTINF:-1,Euro Sports 1
-http://103.233.241.161:8888/live/2/2/801.ts
-#EXTINF:-1,Euro Sports 2
-http://103.233.241.161:8888/live/2/2/802.ts
-#EXTINF:-1,PPTV HD
-http://103.233.241.161:8888/live/2/2/605.ts
-#EXTINF:-1,Sony ESPN
-http://103.233.241.161:8888/live/2/2/162.ts
-#EXTINF:-1,BeIN Sports 1
-http://103.233.241.161:8888/live/2/2/10.ts
-#EXTINF:-1,BeIN Sports 2
-http://103.233.241.161:8888/live/2/2/11.ts
-#EXTINF:-1,BeIN Sports 3
-http://103.233.241.161:8888/live/2/2/12.ts
-#EXTINF:-1,BeIN Sports 4
-http://103.233.241.161:8888/live/2/2/217.ts
-#EXTINF:-1,BeIN Sports 5
-http://103.233.241.161:8888/live/2/2/218.ts
-#EXTINF:-1,BeIN Sports 6
-http://103.233.241.161:8888/live/2/2/219.ts
-#EXTINF:-1,BeIN Sports 7
-http://103.233.241.161:8888/live/2/2/220.ts
-#EXTINF:-1,BeIN Sports 8
-http://103.233.241.161:8888/live/2/2/221.ts
-#EXTINF:-1,BeIN Sports 9
-http://103.233.241.161:8888/live/2/2/222.ts
-#EXTINF:-1,BeIN Sports 10
-http://103.233.241.161:8888/live/2/2/253.ts
-#EXTINF:-1,BeIN Sports 11
-http://103.233.241.161:8888/live/2/2/254.ts
-#EXTINF:-1,BeIN Sports 12
-http://103.233.241.161:8888/live/2/2/255.ts
-#EXTINF:-1,Sky Sport F1
-http://103.233.241.161:8888/live/2/2/415.ts
-#EXTINF:-1,BeIN LaLiga
-http://103.233.241.161:8888/live/2/2/416.ts
-#EXTINF:-1,Sky Sport Premiere League
-http://103.233.241.161:8888/live/2/2/317.ts
-#EXTINF:-1,Sky Sport Main Event
-http://103.233.241.161:8888/live/2/2/316.ts
-#EXTINF:-1,Sky Sport Action
-http://103.233.241.161:8888/live/2/2/315.ts
-#EXTINF:-1,Sky Sport Cricket
-http://103.233.241.161:8888/live/2/2/314.ts
-#EXTINF:-1,Sky Sport Football
-http://103.233.241.161:8888/live/2/2/477.ts
-#EXTINF:-1,Sky Sport Arena
-http://103.233.241.161:8888/live/2/2/476.ts
-#EXTINF:-1,BT Sport 1
-http://103.233.241.161:8888/live/2/2/319.ts
-#EXTINF:-1,BT Sport 2
-http://103.233.241.161:8888/live/2/2/320.ts
-#EXTINF:-1,BT Sport 3
-http://103.233.241.161:8888/live/2/2/321.ts
-#EXTINF:-1,MU TV
-http://103.233.241.161:8888/live/2/2/400.ts
-#EXTINF:-1,BT Sport ESPN
-http://103.233.241.161:8888/live/2/2/399.ts
-#EXTINF:-1,CCTV 5 HD
-http://103.233.241.161:8888/live/2/2/595.ts
-#EXTINF:-1,Fight Sports
-http://103.233.241.161:8888/live/2/2/784.ts
-#EXTINF:-1,FIGHT BOX
-http://103.233.241.161:8888/live/2/2/501.ts
-#EXTINF:-1,Box Nation
-http://103.233.241.161:8888/live/2/2/499.ts
-#EXTINF:-1,Super Sport 1
-http://103.233.241.161:8888/live/2/2/256.ts
-#EXTINF:-1,Super Sport 2
-http://103.233.241.161:8888/live/2/2/257.ts
-#EXTINF:-1,Super Sport 3
-http://103.233.241.161:8888/live/2/2/258.ts
-#EXTINF:-1,Super Sport 4
-http://103.233.241.161:8888/live/2/2/259.ts
-#EXTINF:-1,WWE Network
-http://103.233.241.161:8888/live/2/2/299.ts
-#EXTINF:-1,Real Madrid TV
-http://103.233.241.161:8888/live/2/2/244.ts
-#EXTINF:-1,NBA TV
-http://103.233.241.161:8888/live/2/2/243.ts
-#EXTINF:-1,TNT US
-http://103.233.241.161:8888/live/2/2/678.ts
-#EXTINF:-1,Neo Sports (IN)
-http://portal.simiptv.com:8001/live/1/2/13442.ts
-#EXTINF:-1,SONY ESPN >HD< (IN) 
-http://portal.simiptv.com:8001/live/1/2/14858.ts
-#EXTINF:-1,Sport | SONY SIX (IN).
-http://portal.simiptv.com:8001/live/1/2/14849.ts
-#EXTINF:-1,Sport | DD Sports (IN) 
-http://portal.simiptv.com:8001/live/1/2/19857.ts
-#EXTINF:-1,Sport:DSPORTS (HD)
-http://portal.simiptv.com:8001/live/1/2/21819.ts
-#EXTINF:-1,Sport | WILLOW CRICEKT HD (usa)
-http://portal.simiptv.com:8001/live/1/2/9106.ts
-#EXTINF:-1,Sport | Sport 12 HD (ENGLISH) 
-http://portal.simiptv.com:8001/live/1/2/17896.ts
-#EXTINF:-1,Sport | Sport 11 HD (English) 
-http://portal.simiptv.com:8001/live/1/2/17895.ts
-#EXTINF:-1, SPORTS 10 HD (AR) 
-http://portal.simiptv.com:8001/live/1/2/16588.ts
-#EXTINF:-1, Sorts 9 HD (AR) 
-http://portal.simiptv.com:8001/live/1/2/16578.ts 
-#EXTINF:-1, SPORTS 8 HD (AR). 
-http://portal.simiptv.com:8001/live/1/2/16579.ts
-#EXTINF:-1, SPORTS 7 HD (AR) 
-http://portal.simiptv.com:8001/live/1/2/16580.ts
-#EXTINF:-1, SPORTS 6 HD (AR) 
-http://portal.simiptv.com:8001/live/1/2/16581.ts
-#EXTINF:-1, SPORTS 5 HD (AR) 
-http://portal.simiptv.com:8001/live/1/2/16582.ts
-#EXTINF:-1, SPORTS 4 HD (AR) 
-http://portal.simiptv.com:8001/live/1/2/16583.ts
-#EXTINF:-1, SPORTS 3 HD (AR) 
-http://portal.simiptv.com:8001/live/1/2/16584.ts
-#EXTINF:-1, SPORTS 2 HD (AR)
-http://portal.simiptv.com:8001/live/1/2/16585.ts
-#EXTINF:-1, Sport 1 HD (AR)
-http://portal.simiptv.com:8001/live/1/2/16589.ts
-#EXTINF:-1,Sport | Sport 3 HD (FR) 
-http://portal.simiptv.com:8001/live/1/2/17894.ts
-#EXTINF:-1,Sport | Sport 2 HD (FR) 
-http://portal.simiptv.com:8001/live/1/2/17893.ts
-#EXTINF:-1,Sport | SPORTS 1 HD (FR) 
-http://portal.simiptv.com:8001/live/1/2/17892.ts
-#EXTINF:-1, USA SPORTS
-http://portal.simiptv.com:8001/live/1/2/18599.ts
-#EXTINF:-1,Sport |:WWE Network (USA) 
-http://portal.simiptv.com:8001/live/1/2/16624.ts
-#EXTINF:-1,Sport | NBC Sport FHD (US) 
-http://portal.simiptv.com:8001/live/1/2/21329.ts
-#EXTINF:-1,Sport | MLB Network (US) 
-http://portal.simiptv.com:8001/live/1/2/21080.ts
-#EXTINF:-1,FOX Sports 2 (USA) 
-http://portal.simiptv.com:8001/live/1/2/18609.ts
-#EXTINF:-1,Sport | TSN 5 (US) 
-http://portal.simiptv.com:8001/live/1/2/18596.ts
-#EXTINF:-1,Sport | TSN 4 (US) 
-http://portal.simiptv.com:8001/live/1/2/18595.ts
-#EXTINF:-1,TSN 3 (US) 
-http://portal.simiptv.com:8001/live/1/2/18594.ts
-#EXTINF:-1,Sport | TSN 2 (US) 
-http://portal.simiptv.com:8001/live/1/2/18593.ts
-#EXTINF:-1,Sport | TSN 1 (US) 
-http://portal.simiptv.com:8001/live/1/2/18592.ts
-#EXTINF:-1,Sport | Sports (USA) 
-http://portal.simiptv.com:8001/live/1/2/20218.ts
-#EXTINF:-1,Sport | NFL Now HD (USA) 
-http://portal.simiptv.com:8001/live/1/2/19639.ts
-#EXTINF:-1, 3PM ELP Netherlands Sport 
-http://portal.simiptv.com:8001/live/1/2/19542.ts
-#EXTINF:-1,Sport | espn HD (US) 
-http://portal.simiptv.com:8001/live/1/2/19638.ts
-#EXTINF:-1,Sport | Fox Sports 6 HD (NL)
- http://portal.simiptv.com:8001/live/1/2/19598.ts
-#EXTINF:-1,Sport | Fox Sports 5 HD (NL) 
-http://portal.simiptv.com:8001/live/1/2/19597.ts
-#EXTINF:-1,Sport | Fox Sports 4 HD (NL) 
-http://portal.simiptv.com:8001/live/1/2/19546.ts
-#EXTINF:-1,Sport | Fox Sports 3 HD (NL) 
-http://portal.simiptv.com:8001/live/1/2/19545.ts
-#EXTINF:-1,Sport | Fox Sports 2 HD (NL) 
-http://portal.simiptv.com:8001/live/1/2/19544.ts
-#EXTINF:-1,Sport | FOX Sports 1 (NL) 
-http://portal.simiptv.com:8001/live/1/2/19543.ts 
-#EXTINF:-1,Sport | Abu Dhabi Sports 1
-( UAE) http://portal.simiptv.com:8001/live/1/2/19625.ts 
-#EXTINF:-1,Sport | Abu Dhabi Sports 2 (UAE) 
-http://portal.simiptv.com:8001/live/1/2/19626.ts
-#EXTINF:-1,Sport | BURSASPORT TV (TR) 
-http://portal.simiptv.com:8001/live/1/2/19635.ts
-#EXTINF:-1,Sport | Dubai-Sports (UAE ) 
-http://portal.simiptv.com:8001/live/1/2/19632.ts
-#EXTINF:-1,SPORT | TRT Spor (TR) 
-http://portal.simiptv.com:8001/live/1/2/19636.ts 
-#EXTINF:-1,Sport | PXSports HD 
-http://portal.simiptv.com:8001/live/1/2/19863.ts
-#EXTINF:-1,Sport | Real Madrid TV (ES) 
-http://portal.simiptv.com:8001/live/1/2/19637.ts
-#EXTINF:-1,Sport | Sport Klub 3 HD 
-http://portal.simiptv.com:8001/live/1/2/19950.ts
-#EXTINF:-1,Sport | Sport Klub 2 HD 
-http://portal.simiptv.com:8001/live/1/2/19949.ts
-#EXTINF:-1,Sport | Sport Klub 1 HD 
-http://portal.simiptv.com:8001/live/1/2/19948.ts
-#EXTINF:-1,Sport | Sport Klub HD 
-http://portal.simiptv.com:8001/live/1/2/19951.ts
-#EXTINF:-1, Encore Sport
-http://portal.simiptv.com:8001/live/1/2/20220.ts
-#EXTINF:-1,Sport | Encore Sport (Mountain) 
-http://portal.simiptv.com:8001/live/1/2/20215.ts
-#EXTINF:-1,Sport | Encore Sport (Bay Area) 
-http://portal.simiptv.com:8001/live/1/2/19631.ts
-#EXTINF:-1,Sport | Encore Sport (Oregon) 
-http://portal.simiptv.com:8001/live/1/2/20216.ts
-#EXTINF:-1,Sport | Encore Sport (Arizona) 
-http://portal.simiptv.com:8001/live/1/2/19628.ts
-#EXTINF:-1,Sport | Sevilla FC(Spain) 
-http://portal.simiptv.com:8001/live/1/2/20219.ts 
-#EXTINF:-1,SP_fight time HD 
-http://portal.simiptv.com:8001/live/1/2/21030.ts
-#EXTINF:-1,Vip:Sport | Fight Channel 4 
-http://portal.simiptv.com:8001/live/1/2/21033.ts
-#EXTINF:-1,Vip:Sport | Fight Channel 3 
-http://portal.simiptv.com:8001/live/1/2/21032.ts
-#EXTINF:-1,SP_ Fight Channel 1 
-http://portal.simiptv.com:8001/live/1/2/21031.ts
-#EXTINF:-1,Sport | At The Races (UK) 
-http://portal.simiptv.com:8001/live/1/2/15602.ts
-#EXTINF:-1,Sport | Geo Super (PK) 
-http://portal.simiptv.com:8001/live/1/2/16629.ts
-#EXTINF:-1,Sp_Sony ESPN >FHD< 
-http://portal.simiptv.com:8001/live/1/2/13440.ts
-#EXTINF:-1,Sport | Sony Six (IN)
-http://portal.simiptv.com:8001/live/1/2/13439.ts
-#EXTINF:-1,Sport | Racing (UK) SD/HD
-http://portal.simiptv.com:8001/live/1/2/15507.ts
-#EXTINF:-1,Star Sport 2 (IN) 
-http://portal.simiptv.com:8001/live/1/2/7970.ts
-#EXTINF:-1,Sport | Eir Sport 2 (UK)
-http://portal.simiptv.com:8001/live/1/2/15552.ts
-#EXTINF:-1,Sport | Eir Sport 1 (UK) 
-http://portal.simiptv.com:8001/live/1/2/15553.ts
-#EXTINF:-1,Sport | Manchester United FC (UK) 
-http://portal.simiptv.com:8001/live/1/2/15523.ts
+	Channel Name	Status	URL
+1	AR:beIN SPORT 1 HD	Online	http://188.93.238.184:8000/live/snet/snet/37774.ts
+2	AR:beIN SPORT 9 HD	Online	http://188.93.238.184:8000/live/snet/snet/37782.ts
+3	AR:beIN SPORT 10 HD	Online	http://188.93.238.184:8000/live/snet/snet/37783.ts
+4	AR:beIN SPORT 11 HD	Online	http://188.93.238.184:8000/live/snet/snet/37784.ts
+5	AR:beIN SPORT 12 HD	Online	http://188.93.238.184:8000/live/snet/snet/37785.ts
+6	Rom: Sport Klub 1 HD	Online	http://188.93.238.184:8000/live/snet/snet/37786.ts
+7	Rom: Sport Klub 2 HD	Online	http://188.93.238.184:8000/live/snet/snet/37787.ts
+8	Rom:  Sport Klub 3 HD	Online	http://188.93.238.184:8000/live/snet/snet/37788.ts
+9	Albanian Super Sports 1 HD	Online	http://188.93.238.184:8000/live/snet/snet/37807.ts
+10	Albanian Super Sports 2 HD	Online	http://188.93.238.184:8000/live/snet/snet/37808.ts
+11	Albanian Super Sports 3 HD	Online	http://188.93.238.184:8000/live/snet/snet/37809.ts
+12	Albanian Super Sports 4 HD	Online	http://188.93.238.184:8000/live/snet/snet/37810.ts
+13	AR: Bein Sports 8 HD	Online	http://188.93.238.184:8000/live/snet/snet/375.ts
+14	AR: Bein Sports 9 HD	Online	http://188.93.238.184:8000/live/snet/snet/376.ts
+15	AR: MBC Action (.)	Online	http://188.93.238.184:8000/live/snet/snet/648.ts
+16	AR: MBC Drama (.)	Online	http://188.93.238.184:8000/live/snet/snet/649.ts
+17	Arena Sports 1 HD	Online	http://188.93.238.184:8000/live/snet/snet/37803.ts
+18	Arena Sports 2 HD	Online	http://188.93.238.184:8000/live/snet/snet/37804.ts
+19	Arena Sports 3 HD	Online	http://188.93.238.184:8000/live/snet/snet/37805.ts
+20	Arena Sports 4 HD	Online	http://188.93.238.184:8000/live/snet/snet/37806.ts
+21	DE SKY SPORTS 1HD	Online	http://188.93.238.184:8000/live/snet/snet/37801.ts
+22	DE SKY SPORTS 2HD	Online	http://188.93.238.184:8000/live/snet/snet/37802.ts
+23	OSN Sports 3HD	Online	http://188.93.238.184:8000/live/snet/snet/37798.ts
+24	OSN Sports 4HD	Online	http://188.93.238.184:8000/live/snet/snet/37799.ts
+25	Dubai Sports Arab	Online	http://188.93.238.184:8000/live/snet/snet/37824.ts
+26	PL Eleven Sports HD	Online	http://188.93.238.184:8000/live/snet/snet/37825.ts
+27	USA TSN 2HD	Online	http://188.93.238.184:8000/live/snet/snet/37792.ts
+28	USA TSN 3HD	Online	http://188.93.238.184:8000/live/snet/snet/37795.ts
+29	USA TSN 4HD	Online	http://188.93.238.184:8000/live/snet/snet/37790.ts
+30	US CBS Sports	Online	http://188.93.238.184:8000/live/snet/snet/37815.ts
+31	US FOX SPORTS 1 HD	Online	http://188.93.238.184:8000/live/snet/snet/37800.ts
+32	UK@ Sky Sports Main Event (Backup-1)	Online	http://188.93.238.184:8000/live/snet/snet/36513.ts
+33	UK@ Sky Sports Prem Lge HD	Online	http://188.93.238.184:8000/live/snet/snet/36514.ts
+34	UK@ Sky Sports Prem Lge (Backup-1)	Online	http://188.93.238.184:8000/live/snet/snet/13633.ts
+35	UK@ Sky Sports Football HD	Online	http://188.93.238.184:8000/live/snet/snet/12451.ts
+36	UK@ Sky Sports Football (Backup-1)	Online	http://188.93.238.184:8000/live/snet/snet/37400.ts
+37	UK@ Sky Sports Cricket HD	Online	http://188.93.238.184:8000/live/snet/snet/37955.ts
+38	UK@ Sky Sports Cricket (Backup-1)	Online	http://188.93.238.184:8000/live/snet/snet/16599.ts
+39	UK@ Sky Sports F1 HD	Online	http://188.93.238.184:8000/live/snet/snet/9721.ts
+40	UK@ Sky Sports F1(Backup-1)	Online	http://188.93.238.184:8000/live/snet/snet/9722.ts
+41	UK@ Sky Sports Arena HD	Online	http://188.93.238.184:8000/live/snet/snet/11911.ts
+42	UK@ Sky Sports Arena (Backup-1)	Online	http://188.93.238.184:8000/live/snet/snet/37294.ts
+43	UK@ Sky Sports News HQ	Online	http://188.93.238.184:8000/live/snet/snet/9725.ts
+44	UK@ Sky Sports News (Backup-1)	Online	http://188.93.238.184:8000/live/snet/snet/37299.ts
+45	UK@Sky Sports Golf HD	Online	http://188.93.238.184:8000/live/snet/snet/37569.ts
+46	UK@ Sky Sports Golf (Backup-1)	Online	http://188.93.238.184:8000/live/snet/snet/32594.ts
+47	UK@ Sky Sports Action HD	Online	http://188.93.238.184:8000/live/snet/snet/36509.ts
+48	UK@ Sky Sports Action (Backup-1)	Online	http://188.93.238.184:8000/live/snet/snet/36510.ts
+49	UK@ Sky Sports Mix HD	Online	http://188.93.238.184:8000/live/snet/snet/9723.ts
+50	UK@ Sky Sports Mix (Backup-1)	Online	http://188.93.238.184:8000/live/snet/snet/29507.ts
+51	UK@ Eurosport 1 HD	Online	http://188.93.238.184:8000/live/snet/snet/29815.ts
+52	UK@ Eurosport 2 HD	Online	http://188.93.238.184:8000/live/snet/snet/10763.ts
+53	UK@ BT Sport 1 HD	Online	http://188.93.238.184:8000/live/snet/snet/36515.ts
+54	UK@ BT Sport 1 (Backup-1)	Online	http://188.93.238.184:8000/live/snet/snet/32859.ts
+55	UK@ BT Sport 2 HD	Online	http://188.93.238.184:8000/live/snet/snet/37956.ts
+56	UK@ BT Sport 2 (Backup-1)	Online	http://188.93.238.184:8000/live/snet/snet/37153.ts
+57	UK@ BT Sport 3 HD	Online	http://188.93.238.184:8000/live/snet/snet/32931.ts
+58	UK@ BT Sport 3 (Backup-1)	Online	http://188.93.238.184:8000/live/snet/snet/32223.ts
+59	UK@ BT Sport Espn HD	Online	http://188.93.238.184:8000/live/snet/snet/10759.ts
+60	UK@ BT Sport Espn (Backup-1)	Online	http://188.93.238.184:8000/live/snet/snet/10760.ts
+61	MY@ .Astro Sports	Online	http://188.93.238.184:8000/live/snet/snet/36505.ts
+62	MY@ .SkyNet Sports 1	Online	http://188.93.238.184:8000/live/snet/snet/36504.ts
+63	MY@ .SkyNet Sports 2	Online	http://188.93.238.184:8000/live/snet/snet/36503.ts
+64	MY@ .SkyNet Sports 3	Online	http://188.93.238.184:8000/live/snet/snet/36502.ts
+65	MY@ .SkyNet Sports 4	Online	http://188.93.238.184:8000/live/snet/snet/36501.ts
+66	MY@ .SkyNet Sports 5	Online	http://188.93.238.184:8000/live/snet/snet/36500.ts
+67	MY@ .SkyNet Sports 6	Online	http://188.93.238.184:8000/live/snet/snet/36499.ts
