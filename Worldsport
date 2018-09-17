@@ -152,6 +152,41 @@ http://188.93.238.184:8000/live/snet/snet/36501.ts
 http://188.93.238.184:8000/live/snet/snet/36500.ts
 #EXTINF:-1,MY@ .SkyNet Sports 6
 http://188.93.238.184:8000/live/snet/snet/36499.ts
-
+#EXTINF:-1,bN SPORT 1 HD
+http://188.93.238.184:8000/live/snet/snet/37774.ts
+#EXTINF:-1,bN SPORT 10 HD
+http://188.93.238.184:8000/live/snet/snet/37783.ts
+#EXTINF:-1,bN SPORT 11 HD
+http://188.93.238.184:8000/live/snet/snet/37784.ts
+#EXTINF:-1,bN SPORT 12 HD
+http://188.93.238.184:8000/live/snet/snet/37785.ts
+#EXTINF:-1,beIN SPORTS NEWS
+http://31.154.95.26:25461/live/dokpal/cisco2006/171.ts
+#EXTINF:-1,beIN SPORTS HD
+http://31.154.95.26:25461/live/dokpal/cisco2006/172.ts
+#EXTINF:-1,beIN SPORTS 1HD 1080
+http://31.154.95.26:25461/live/dokpal/cisco2006/173.ts
+#EXTINF:-1,beIN SPORTS 2HD 1080
+http://31.154.95.26:25461/live/dokpal/cisco2006/174.ts
+#EXTINF:-1,beIN SPORTS 3HD 1080
+http://31.154.95.26:25461/live/dokpal/cisco2006/175.ts
+#EXTINF:-1,beIN SPORTS 4HD 1080
+http://31.154.95.26:25461/live/dokpal/cisco2006/176.ts
+#EXTINF:-1,beIN SPORTS 5HD 1080
+http://31.154.95.26:25461/live/dokpal/cisco2006/177.ts
+#EXTINF:-1,beIN SPORTS 6HD 1080
+http://31.154.95.26:25461/live/dokpal/cisco2006/178.ts
+#EXTINF:-1,beIN SPORTS 7HD 1080
+http://31.154.95.26:25461/live/dokpal/cisco2006/179.ts
+#EXTINF:-1,beIN SPORTS 8HD 1080
+http://31.154.95.26:25461/live/dokpal/cisco2006/180.ts
+#EXTINF:-1,beIN SPORTS 9HD 1080
+http://31.154.95.26:25461/live/dokpal/cisco2006/181.ts
+#EXTINF:-1,beIN SPORTS 10HD 1080
+http://31.154.95.26:25461/live/dokpal/cisco2006/182.ts
+#EXTINF:-1,beIN SPORTS 11 HD 1080
+http://31.154.95.26:25461/live/dokpal/cisco2006/183.ts
+#EXTINF:-1,beIN SPORTS 12 HD 1080
+http://31.154.95.26:25461/live/dokpal/cisco2006/184.ts
 
 	
