@@ -1,13 +1,13 @@
 #EXTM3U
- http://188.93.238.184:8000/live/snet/snet/37774.ts AR:beIN SPORT 1 HD
- http://188.93.238.184:8000/live/snet/snet/37782.ts AR:beIN SPORT 9 HD
- http://188.93.238.184:8000/live/snet/snet/37783.ts AR:beIN SPORT 10 HD
- http://188.93.238.184:8000/live/snet/snet/37784.ts AR:beIN SPORT 11 HD
- http://188.93.238.184:8000/live/snet/snet/37785.ts AR:beIN SPORT 12 HD
- http://188.93.238.184:8000/live/snet/snet/37786.ts Rom: Sport Klub 1 HD
- http://188.93.238.184:8000/live/snet/snet/37787.ts Rom: Sport Klub 2 HD
- http://188.93.238.184:8000/live/snet/snet/37788.ts Rom:  Sport Klub 3 HD
- http://188.93.238.184:8000/live/snet/snet/37807.ts Albanian Super Sports 1 HD
+I: http://188.93.238.184:8000/live/snet/snet/37774.ts AR:beIN SPORT 1 HD
+I: http://188.93.238.184:8000/live/snet/snet/37782.ts AR:beIN SPORT 9 HD
+I: http://188.93.238.184:8000/live/snet/snet/37783.ts AR:beIN SPORT 10 HD
+I: http://188.93.238.184:8000/live/snet/snet/37784.ts AR:beIN SPORT 11 HD
+I: http://188.93.238.184:8000/live/snet/snet/37785.ts AR:beIN SPORT 12 HD
+I: http://188.93.238.184:8000/live/snet/snet/37786.ts Rom: Sport Klub 1 HD
+I: http://188.93.238.184:8000/live/snet/snet/37787.ts Rom: Sport Klub 2 HD
+I: http://188.93.238.184:8000/live/snet/snet/37788.ts Rom:  Sport Klub 3 HD
+I: http://188.93.238.184:8000/live/snet/snet/37807.ts Albanian Super Sports 1 HD
 I: http://188.93.238.184:8000/live/snet/snet/37808.ts Albanian Super Sports 2 HD
 I: http://188.93.238.184:8000/live/snet/snet/37809.ts Albanian Super Sports 3 HD
 I: http://188.93.238.184:8000/live/snet/snet/37810.ts Albanian Super Sports 4 HD
@@ -65,5 +65,5 @@ I: http://188.93.238.184:8000/live/snet/snet/36503.ts MY@ .SkyNet Sports 2
 I: http://188.93.238.184:8000/live/snet/snet/36502.ts MY@ .SkyNet Sports 3
 I: http://188.93.238.184:8000/live/snet/snet/36501.ts MY@ .SkyNet Sports 4
 I: http://188.93.238.184:8000/live/snet/snet/36500.ts MY@ .SkyNet Sports 5
-I: http://188.93.238.184:8000/live/snet/snet/36499.ts MY@ .SkyNet Sports 6
+I: http://188.93.238.184:8000/live/snet/snet/36499.ts MY@ .SkyNet Sports 6 
 	
