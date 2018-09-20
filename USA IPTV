@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:- CHANNELS TV
+https://youtu.be/h8rttB7NIyY
+EXTINF:- TVC NEWS 
+https://youtu.be/N_s_4sxFhjQ
+
 #EXTINF:-1,UK@ Sky One HD
 http://188.93.238.184:8000/live/snet/snet/11349.ts
 
