@@ -4,8 +4,6 @@
 http://54.39.52.84:8081/FoxNews/myStream/chunks.m3u8?nimblesessionid=1824918&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE4IDEyOjQyOjMwIEFNJmhhc2hfdmFsdWU9ZjZPN2UvTVJpTGRWRE9PQkpScmljdz09JnZhbGlkbWludXRlcz0zNjA=
 
 #EXTINF:0, CNN 
-chunks.m3u8?nimblesessionid=2164145&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDE4IDEwOjI3OjQ3IFBNJmhhc2hfdmFsdWU9bytoUDhsN2pCQVJleWF6K2V5eGh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTVLCOPT:network-caching=1000
 http://54.39.53.107:8081/CNN/myStream/chunks.m3u8?nimblesessionid=2164145&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDE4IDEwOjI3OjQ3IFBNJmhhc2hfdmFsdWU9bytoUDhsN2pCQVJleWF6K2V5eGh3UT09JnZhbGlkbWludXRlcz0xODA=
 
 #EXTINF:0,Mr Bean - Cartoon Marathon | Full Episodes | Mr Bean LIVE ðŸ”´
