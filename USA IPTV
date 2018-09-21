@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:0,Channels Television - Channels Television - Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/go/1/expire/1537514907/key/yt6/id/h8rttB7NIyY.1/dover/11/ip/2600%3A1702%3A1030%3A9270%3Ae440%3A98d9%3A758a%3A1f74/ratebypass/yes/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/signature/DF812C56BCDD6CA49E08AF43779AA3A2AA54805E.B856747A1D27E8FC2E138D3B6C7DBBE653BA0F88/playlist_type/DVR/maudio/1/txs/23723591%2C23723593%2C23723594%2C23728346%2C23728349%2C23728350/source/yt_live_broadcast/keepalive/yes/ei/O0mkW8fXAs3pkAPzmZeYDQ/gcr/us/ipbits/0/itag/0/tx/23723591/hfr/1/requiressl/yes/file/index.m3u8
+
+#EXTINF:0,TVC News Nigeria - TVC News Nigeria Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/manifest_duration/30/key/yt6/source/yt_live_broadcast/ratebypass/yes/txs/23723591%2C23723593%2C23723594%2C23728346%2C23728349%2C23728350/expire/1537515005/maudio/1/tx/23723591/ip/2600%3A1702%3A1030%3A9270%3Ae440%3A98d9%3A758a%3A1f74/hfr/1/keepalive/yes/go/1/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/ei/nEmkW4_rOpGgj-8P96eqyA8/itag/0/ipbits/0/requiressl/yes/playlist_type/DVR/signature/C3E9E45EC6580FE8EB70E91A04B821E0C7E55AA1.17CDA19D0589E7375582361D84A98E9C44368E6C/playlist_duration/30/id/N_s_4sxFhjQ.0/gcr/us/dover/11/file/index.m3u8
+
+
 #EXTINF:0, FoxNews 
 http://54.39.52.84:8081/FoxNews/myStream/chunks.m3u8?nimblesessionid=1824918&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE4IDEyOjQyOjMwIEFNJmhhc2hfdmFsdWU9ZjZPN2UvTVJpTGRWRE9PQkpScmljdz09JnZhbGlkbWludXRlcz0zNjA=
 
