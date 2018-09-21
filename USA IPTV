@@ -1,10 +1,7 @@
 #EXTM3U
-#EXTINF:0,chunks.m3u8?nimblesessionid=2164145&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDE4IDEwOjI3OjQ3IFBNJmhhc2hfdmFsdWU9bytoUDhsN2pCQVJleWF6K2V5eGh3UT09JnZhbGlkbWludXRlcz0xODA=
+#EXTINF:CNN,chunks.m3u8?nimblesessionid=2164145&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDE4IDEwOjI3OjQ3IFBNJmhhc2hfdmFsdWU9bytoUDhsN2pCQVJleWF6K2V5eGh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTVLCOPT:network-caching=1000
 http://54.39.53.107:8081/CNN/myStream/chunks.m3u8?nimblesessionid=2164145&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDE4IDEwOjI3OjQ3IFBNJmhhc2hfdmFsdWU9bytoUDhsN2pCQVJleWF6K2V5eGh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:0,chunks.m3u8?nimblesessionid=1808004&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDE4IDEwOjUzOjA5IFBNJmhhc2hfdmFsdWU9cVRHbnBtenhCS0NjUk90V2ltekxmdz09JnZhbGlkbWludXRlcz0zNjA=
-#EXTVLCOPT:network-caching=1000
-http://54.39.52.84:8081/FoxNews/myStream/chunks.m3u8?nimblesessionid=1808004&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDE4IDEwOjUzOjA5IFBNJmhhc2hfdmFsdWU9cVRHbnBtenhCS0NjUk90V2ltekxmdz09JnZhbGlkbWludXRlcz0zNjA=
 
 #EXTINF:0,Mr Bean - Cartoon Marathon | Full Episodes | Mr Bean LIVE ðŸ”´
 https://manifest.googlevideo.com/api/manifest/hls_variant/gcr/us/keepalive/yes/ip/2600%3A1702%3A1030%3A9270%3Ae440%3A98d9%3A758a%3A1f74/source/yt_live_broadcast/requiressl/yes/itag/0/ei/8hikW87qEbCYkASq0KmACA/hfr/1/ipbits/0/dover/11/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/id/Lvp-lSqHVKc.2128/expire/1537502546/key/yt6/go/1/maudio/1/signature/5A511112499E9F624A8A8EF7E4CC6FDD471F0D8A.2149A5615AA37327D33081E7CB23158FFEE4B96B/playlist_type/DVR/ratebypass/yes/file/index.m3u8
