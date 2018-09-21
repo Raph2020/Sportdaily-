@@ -16,6 +16,9 @@ http://54.39.53.107:8081/CNN/myStream/chunks.m3u8?nimblesessionid=2164145&wmsAut
 #EXTINF:0,Mr Bean - Cartoon 24/7
 https://manifest.googlevideo.com/api/manifest/hls_variant/gcr/us/keepalive/yes/ip/2600%3A1702%3A1030%3A9270%3Ae440%3A98d9%3A758a%3A1f74/source/yt_live_broadcast/requiressl/yes/itag/0/ei/8hikW87qEbCYkASq0KmACA/hfr/1/ipbits/0/dover/11/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/id/Lvp-lSqHVKc.2128/expire/1537502546/key/yt6/go/1/maudio/1/signature/5A511112499E9F624A8A8EF7E4CC6FDD471F0D8A.2149A5615AA37327D33081E7CB23158FFEE4B96B/playlist_type/DVR/ratebypass/yes/file/index.m3u8
 
+#EXTINF:0, Weather channel Live
+https://weather-lh.akamaihd.net/i/twc_1@92006/index_400_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:-1,UK@ Sky One HD
 
 http://188.93.238.184:8000/live/snet/snet/11349.ts
