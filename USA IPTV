@@ -1,45 +1,24 @@
 #EXTM3U
+#EXTINF:0,Channels Television
+https://manifest.googlevideo.com/api/manifest/hls_variant/keepalive/yes/id/h8rttB7NIyY.1/hfr/1/ipbits/0/go/1/itag/0/tx/9474462/ei/UP6oW7WuHsnL4QSc4InYCA/expire/1537823408/signature/1909D6112C35DE770EC0A357A4C566C23FF3ACE9.06774503E44C7788268764F0FEEB1CF2CF2A9659/ratebypass/yes/dover/11/maudio/1/txs/9474456%2C9474458%2C9474459%2C9474460%2C9474462%2C9474463/requiressl/yes/ip/2600%3A1702%3A1030%3A9270%3Ae9c2%3A4045%3A5fc0%3A3aed/key/yt6/playlist_type/DVR/gcr/us/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/source/yt_live_broadcast/file/index.m3u8
 
-#EXTINF:0,NHL
-https://d1qa4kagnlzsr2.cloudfront.net/index_1.m3u8
+#EXTINF:0,Fox news
+http://54.39.52.84:8081/FoxNews/myStream/chunks.m3u8?nimblesessionid=2732086&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDE4IDM6MDA6MTEgUE0maGFzaF92YWx1ZT1qQ2lKb1Q5VU92YTJXMUNRZkdzN0lRPT0mdmFsaWRtaW51dGVzPTM2MA==
 
-#EXTINF:0,Channels Television 
-https://manifest.googlevideo.com/api/manifest/hls_variant/go/1/expire/1537514907/key/yt6/id/h8rttB7NIyY.1/dover/11/ip/2600%3A1702%3A1030%3A9270%3Ae440%3A98d9%3A758a%3A1f74/ratebypass/yes/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/signature/DF812C56BCDD6CA49E08AF43779AA3A2AA54805E.B856747A1D27E8FC2E138D3B6C7DBBE653BA0F88/playlist_type/DVR/maudio/1/txs/23723591%2C23723593%2C23723594%2C23728346%2C23728349%2C23728350/source/yt_live_broadcast/keepalive/yes/ei/O0mkW8fXAs3pkAPzmZeYDQ/gcr/us/ipbits/0/itag/0/tx/23723591/hfr/1/requiressl/yes/file/index.m3u8
+#EXTINF:0, CNN
+http://54.39.53.107:8081/CNN/myStream/chunks.m3u8?nimblesessionid=3231206&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDE4IDEyOjQ2OjE0IFBNJmhhc2hfdmFsdWU9MnQvYXdHc2lUbHhuekVibnpFYnFCQT09JnZhbGlkbWludXRlcz0xODA=
 
-#EXTINF:0,TVC News Nigeria 
-https://manifest.googlevideo.com/api/manifest/hls_variant/manifest_duration/30/key/yt6/source/yt_live_broadcast/ratebypass/yes/txs/23723591%2C23723593%2C23723594%2C23728346%2C23728349%2C23728350/expire/1537515005/maudio/1/tx/23723591/ip/2600%3A1702%3A1030%3A9270%3Ae440%3A98d9%3A758a%3A1f74/hfr/1/keepalive/yes/go/1/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/ei/nEmkW4_rOpGgj-8P96eqyA8/itag/0/ipbits/0/requiressl/yes/playlist_type/DVR/signature/C3E9E45EC6580FE8EB70E91A04B821E0C7E55AA1.17CDA19D0589E7375582361D84A98E9C44368E6C/playlist_duration/30/id/N_s_4sxFhjQ.0/gcr/us/dover/11/file/index.m3u8
-
-
-#EXTINF:0, FoxNews 
-http://54.39.52.84:8081/FoxNews/myStream/chunks.m3u8?nimblesessionid=1824918&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE4IDEyOjQyOjMwIEFNJmhhc2hfdmFsdWU9ZjZPN2UvTVJpTGRWRE9PQkpScmljdz09JnZhbGlkbWludXRlcz0zNjA=
-
-#EXTINF:0, CNN 
-http://54.39.53.107:8081/CNN/myStream/chunks.m3u8
-
-#EXTINF:0,Mr Bean - Cartoon 24/7
-https://manifest.googlevideo.com/api/manifest/hls_variant/gcr/us/keepalive/yes/ip/2600%3A1702%3A1030%3A9270%3Ae440%3A98d9%3A758a%3A1f74/source/yt_live_broadcast/requiressl/yes/itag/0/ei/8hikW87qEbCYkASq0KmACA/hfr/1/ipbits/0/dover/11/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/id/Lvp-lSqHVKc.2128/expire/1537502546/key/yt6/go/1/maudio/1/signature/5A511112499E9F624A8A8EF7E4CC6FDD471F0D8A.2149A5615AA37327D33081E7CB23158FFEE4B96B/playlist_type/DVR/ratebypass/yes/file/index.m3u8
+#EXTINF:0,TVC News Nigeria
+https://manifest.googlevideo.com/api/manifest/hls_variant/ei/Bv-oW6XTJJG2j-8Puf210AI/playlist_duration/30/go/1/ipbits/0/manifest_duration/30/requiressl/yes/tx/9474462/ratebypass/yes/itag/0/maudio/1/playlist_type/DVR/keepalive/yes/dover/11/expire/1537823590/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/key/yt6/id/N_s_4sxFhjQ.0/source/yt_live_broadcast/gcr/us/hfr/1/txs/9474456%2C9474458%2C9474459%2C9474460%2C9474462%2C9474463/ip/2600%3A1702%3A1030%3A9270%3Ae9c2%3A4045%3A5fc0%3A3aed/signature/242A9FF63C3C33FFD1E0B20BF68C513C9A5924D0.6707E00049801027EC6850CB431FAF0764997808/file/index.m3u8
 
 #EXTINF:0, Weather channel Live
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_400_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,UK@ Sky One HD
-
 http://188.93.238.184:8000/live/snet/snet/11349.ts
-
-#EXTINF:-1,UK@ Sky 1 (Backup)
-http://188.93.238.184:8000/live/snet/snet/27675.ts
 
 #EXTINF:-1,UK@ Sky Living HD
 http://188.93.238.184:8000/live/snet/snet/8143.ts
-
-#EXTINF:-1,UK@ Fine Living
-http://188.93.238.184:8000/live/snet/snet/37338.ts
-
-#EXTINF:-1,UK@ Sky Atlantic HD
-http://188.93.238.184:8000/live/snet/snet/8144.ts
-
-#EXTINF:-1,UK@ Sky Atlantic (Backup)
-http://188.93.238.184:8000/live/snet/snet/27098.ts
 
 #EXTINF:-1,UK@ W HD.
 http://188.93.238.184:8000/live/snet/snet/8145.ts
@@ -50,17 +29,8 @@ http://188.93.238.184:8000/live/snet/snet/36517.ts
 #EXTINF:-1,UK@ Gold (Backup)
 http://188.93.238.184:8000/live/snet/snet/27674.ts
 
-#EXTINF:-1,UK@ Dave HD
-http://188.93.238.184:8000/live/snet/snet/31974.ts
-
 #EXTINF:-1,UK@ Comedy Central HD
 http://188.93.238.184:8000/live/snet/snet/8148.ts
-
-#EXTINF:-1,UK@ MTV HD
-http://188.93.238.184:8000/live/snet/snet/8161.ts
-
-#EXTINF:-1,UK@ MTV  (Backup)
-http://188.93.238.184:8000/live/snet/snet/27679.ts
 
 #EXTINF:-1,UK@ Universal HD
 http://188.93.238.184:8000/live/snet/snet/37160.ts
@@ -92,14 +62,8 @@ http://188.93.238.184:8000/live/snet/snet/8155.ts
 #EXTINF:-1,UK@ ITV 4
 http://188.93.238.184:8000/live/snet/snet/11346.ts
 
-#EXTINF:-1,UK@ Sky Arts HD
-http://188.93.238.184:8000/live/snet/snet/8156.ts
-
 #EXTINF:-1,UK@ ITV Be HD
 http://188.93.238.184:8000/live/snet/snet/37412.ts
-
-#EXTINF:-1,UK@ FOX HD
-http://188.93.238.184:8000/live/snet/snet/19632.ts
 
 #EXTINF:-1,UK@ TLC HD
 http://188.93.238.184:8000/live/snet/snet/8160.ts
@@ -175,8 +139,10 @@ http://188.93.238.184:8000/live/snet/snet/26961.ts
 
 #EXTINF:-1,UK@ AMC
 http://188.93.238.184:8000/live/snet/snet/11339.ts
+
 #EXTINF:-1,UK@ Home
 http://188.93.238.184:8000/live/snet/snet/11338.ts
+
 #EXTINF:-1,UK@ Property Show
 http://188.93.238.184:8000/live/snet/snet/11753.ts
 
@@ -282,9 +248,6 @@ http://188.93.238.184:8000/live/snet/snet/27090.ts
 #EXTINF:-1,UK@ Sky Cinema Drama HD
 http://188.93.238.184:8000/live/snet/snet/21865.ts
 
-#EXTINF:-1,UK@ Sky Cinema Disney HD
-http://188.93.238.184:8000/live/snet/snet/11378.ts
-
 #EXTINF:-1,UK@ Sky Cinema Disney  (Backup)
 http://188.93.238.184:8000/live/snet/snet/27092.ts
 
@@ -293,9 +256,6 @@ http://188.93.238.184:8000/live/snet/snet/11377.ts
 
 #EXTINF:-1,UK@ Sky Cinema Family  (Backup)
 http://188.93.238.184:8000/live/snet/snet/27093.ts
-
-#EXTINF:-1,UK@ Sky Cinema Action HD
-http://188.93.238.184:8000/live/snet/snet/32784.ts
 
 #EXTINF:-1,UK@ Sky Cinema Action  (Backup)
 http://188.93.238.184:8000/live/snet/snet/27094.ts
@@ -356,9 +316,6 @@ http://188.93.238.184:8000/live/snet/snet/13633.ts
 
 #EXTINF:-1,UK@ Sky Sports Football HD
 http://188.93.238.184:8000/live/snet/snet/12451.ts
-
-#EXTINF:-1,UK@ Sky Sports Football (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/37400.ts
 
 #EXTINF:-1,UK@ Sky Sports Cricket HD
 http://188.93.238.184:8000/live/snet/snet/37955.ts
@@ -455,9 +412,6 @@ http://188.93.238.184:8000/live/snet/snet/33271.ts
 
 #EXTINF:-1,UK@ LFC TV Backup
 http://188.93.238.184:8000/live/snet/snet/31950.ts
-
-#EXTINF:-1,UK@ MUTV HD
-http://188.93.238.184:8000/live/snet/snet/26034.ts
 
 #EXTINF:-1,UK@ MUTV (Backup)
 http://188.93.238.184:8000/live/snet/snet/29480.ts
@@ -749,8 +703,3 @@ http://188.93.238.184:8000/live/snet/snet/37537.ts
 
 #EXTINF:-1,UK@ Sky News (Backup)
 http://188.93.238.184:8000/live/snet/snet/37679.ts
-
-
-
-
-
