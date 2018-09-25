@@ -1,165 +1,135 @@
 #EXTM3U
-#EXTINF:-1,BeIN_Sport_06_HD2
-http://173.249.22.88:8000/live/solosudiotv/solosudiotv/68.ts
+#EXTINF:-1,plus-bx6_360p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1859.ts
 
-#EXTINF:-1,BeIN_Sport_05_HD2
-http://173.249.22.88:8000/live/solosudiotv/solosudiotv/67.ts
+#EXTINF:-1,plus-bx6_240p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1860.ts
 
-#EXTINF:-1,BeIN_Sport_03_HD2
-http://173.249.22.88:8000/live/solosudiotv/solosudiotv/65.ts
+#EXTINF:-1,plus-bx5_480p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1856.ts
 
-#EXTINF:-1,BeIN_Sport_02_HD2
-http://173.249.22.88:8000/live/solosudiotv/solosudiotv/64.ts
+#EXTINF:-1,plus-bx5_360p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1857.ts
 
-#EXTINF:-1,BeIN_Sport_01_HD2
-http://173.249.22.88:8000/live/solosudiotv/solosudiotv/63.ts
+#EXTINF:-1,plus-bx5_240p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1858.ts
 
-#EXTINF:-1,AR:beIN SPORT 1 HD
-http://188.93.238.184:8000/live/snet/snet/37774.ts
+#EXTINF:-1,plus-bx4_480p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1853.ts
 
-#EXTINF:-1,AR:beIN SPORT 10 HD
-http://188.93.238.184:8000/live/snet/snet/37783.ts
+#EXTINF:-1,plus-bx4_360p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1854.ts
 
-#EXTINF:-1,AR:beIN SPORT 11 HD
-http://188.93.238.184:8000/live/snet/snet/37784.ts
+#EXTINF:-1,plus-bx4_240p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1855.ts
 
-#EXTINF:-1,AR: Bein Sports 8 HD
-http://188.93.238.184:8000/live/snet/snet/375.ts
+#EXTINF:-1,plus-bx3_480p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1850.ts
 
-#EXTINF:-1,AR: Bein Sports 9 HD
-http://188.93.238.184:8000/live/snet/snet/376.ts
+#EXTINF:-1,plus-bx3_360p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1851.ts
 
-#EXTINF:-1,AR: MBC Drama (.)
-http://188.93.238.184:8000/live/snet/snet/649.ts
+#EXTINF:-1,plus-bx3_240p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1852.ts
 
-#EXTINF:-1,UK@ Sky Sports Main Event (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/36513.ts
+#EXTINF:-1,plus-bx2_480p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1847.ts
 
-#EXTINF:-1,UK@ Sky Sports Prem Lge HD
-http://188.93.238.184:8000/live/snet/snet/36514.ts
+#EXTINF:-1,plus-bx2_360p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1848.ts
 
-#EXTINF:-1,UK@ Sky Sports Prem Lge (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/13633.ts
+#EXTINF:-1,plus-bx2_240p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1849.ts
 
-#EXTINF:-1,UK@ Sky Sports Football HD
-http://188.93.238.184:8000/live/snet/snet/12451.ts
+#EXTINF:-1,plus-bx1_480p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1846.ts
 
-#EXTINF:-1,UK@ Sky Sports Cricket HD
-http://188.93.238.184:8000/live/snet/snet/37955.ts
+#EXTINF:-1,plus-bx1_360p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1844.ts
 
-#EXTINF:-1,UK@ Sky Sports F1 HD
-http://188.93.238.184:8000/live/snet/snet/9721.ts
+#EXTINF:-1,plus-bx1_240p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1845.ts
 
-#EXTINF:-1,UK@ Sky Sports F1(Backup-1)
-http://188.93.238.184:8000/live/snet/snet/9722.ts
+#EXTINF:-1,WWS-skyspremierleague
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1838.ts
 
-#EXTINF:-1,UK@ Sky Sports Arena HD
-http://188.93.238.184:8000/live/snet/snet/11911.ts
+#EXTINF:-1,WWS-skysmainevent
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1834.ts
 
-#EXTINF:-1,UK@ Sky Sports News HQ
-http://188.93.238.184:8000/live/snet/snet/9725.ts
+#EXTINF:-1,WWS-skysgolf
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1837.ts
 
-#EXTINF:-1,UK@ Sky Sports News (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/37299.ts
+#EXTINF:-1,WWS-skysfootball
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1840.ts
 
-#EXTINF:-1,UK@Sky Sports Golf HD
-http://188.93.238.184:8000/live/snet/snet/37569.ts
+#EXTINF:-1,WWS-skyscricket
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1835.ts
 
-#EXTINF:-1,UK@ Sky Sports Golf (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/32594.ts
+#EXTINF:-1,WWS-skysarena
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1839.ts
 
-#EXTINF:-1,UK@ Sky Sports Action HD
-http://188.93.238.184:8000/live/snet/snet/36509.ts
+#EXTINF:-1,WWS-skysaction
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1836.ts
 
-#EXTINF:-1,UK@ Sky Sports Action (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/36510.ts
+#EXTINF:-1,WWS-BEIN9
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1831.ts
 
-#EXTINF:-1,UK@ Sky Sports Mix HD
-http://188.93.238.184:8000/live/snet/snet/9723.ts
+#EXTINF:-1,WWS-BEIN8
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1830.ts
 
-#EXTINF:-1,UK@ Sky Sports Mix (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/29507.ts
+#EXTINF:-1,WWS-BEIN7
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1829.ts
 
-#EXTINF:-1,UK@ Eurosport 1 HD
-http://188.93.238.184:8000/live/snet/snet/29815.ts
+#EXTINF:-1,wws-bein4
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1828.ts
 
-#EXTINF:-1,UK@ Eurosport 2 HD
-http://188.93.238.184:8000/live/snet/snet/10763.ts
+#EXTINF:-1,WWS-BEIN11
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1833.ts
 
-#EXTINF:-1,UK@ BT Sport 1 (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/32859.ts
+#EXTINF:-1,WWS-BEIN10
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1832.ts
 
-#EXTINF:-1,UK@ BT Sport 2 HD
-http://188.93.238.184:8000/live/snet/snet/37956.ts
+#EXTINF:-1,wws-bein5
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1708.ts
 
-#EXTINF:-1,UK@ BT Sport 2 (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/37153.ts
+#EXTINF:-1,Youtube - dmc Drama
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1585.ts
 
-#EXTINF:-1,UK@ BT Sport 3 HD
-http://188.93.238.184:8000/live/snet/snet/32931.ts
+#EXTINF:-1,wws-bein3
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1706.ts
 
-#EXTINF:-1,UK@ BT Sport 3 (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/32223.ts
+#EXTINF:-1,wws-bein2
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1705.ts
 
-#EXTINF:-1,UK@ BT Sport Espn HD
-http://188.93.238.184:8000/live/snet/snet/10759.ts
+#EXTINF:-1,wws-bein1
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1707.ts
 
-#EXTINF:-1,UK@ BT Sport Espn (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/10760.ts
+#EXTINF:-1,WWS-BEIN6
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1639.ts
 
-#EXTINF:-1,MY@ .Astro Sports
-http://188.93.238.184:8000/live/snet/snet/36505.ts
+#EXTINF:-1,TV3LPC-BEIN SPORT 1-LOW
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1579.ts
 
-#EXTINF:-1,MY@ .SkyNet Sports 1
-http://188.93.238.184:8000/live/snet/snet/36504.ts
+#EXTINF:-1,TV3LPC-BEIN SPORT 6-low
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1575.ts
 
-#EXTINF:-1,MY@ .SkyNet Sports 2
-http://188.93.238.184:8000/live/snet/snet/36503.ts
+#EXTINF:-1,TV3LPC-BEIN SPORT 4-LOW
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1578.ts
 
-#EXTINF:-1,MY@ .SkyNet Sports 3
-http://188.93.238.184:8000/live/snet/snet/36502.ts
+#EXTINF:-1,TV3LPC-BEIN SPORT 3-low
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1577.ts
 
-#EXTINF:-1,MY@ .SkyNet Sports 4
-http://188.93.238.184:8000/live/snet/snet/36501.ts
+#EXTINF:-1,TV3LPC-BEIN SPORT 2-low
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1576.ts
 
-#EXTINF:-1,MY@ .SkyNet Sports 5
-http://188.93.238.184:8000/live/snet/snet/36500.ts
+#EXTINF:-1,TV3LPC- ISO-AR-BEIN SPORT 4
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1373.ts
 
-#EXTINF:-1,MY@ .SkyNet Sports 6
-http://188.93.238.184:8000/live/snet/snet/36499.ts
+#EXTINF:-1,TV3LPC- ISO-AR-BEIN SPORT 3
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1372.ts
 
-#EXTINF:-1,AR: MBC Action (.)
-http://188.93.238.184:8000/live/snet/snet/648.ts
-
-#EXTINF:-1,UK@ Sky Sports Arena (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/37294.ts
-
-#EXTINF:-1,UK@ BT Sport 1 HD
-http://188.93.238.184:8000/live/snet/snet/36515.ts
-
-#EXTINF:-1,BeIN_Sport_04_HD2
-http://173.249.22.88:8000/live/solosudiotv/solosudiotv/66.ts
-
-#EXTINF:-1,AR:beIN SPORT 12 HD
-http://188.93.238.184:8000/live/snet/snet/37785.ts
-#EXTINF:-1,iptv4sat.com BeIN_Sport_04_HD2
-http://173.249.22.88:8000/live/solosudiotv/solosudiotv/66.ts
-
-#EXTINF:-1,BeIN_Sport_03_HD2
-http://173.249.22.88:8000/live/solosudiotv/solosudiotv/65.ts
-
-#EXTINF:-1,BeIN_Sport_02_HD2
-http://173.249.22.88:8000/live/solosudiotv/solosudiotv/64.ts
-
-#EXTINF:-1,BeIN_Sport_01_iptv4sat.com HD2
-http://173.249.22.88:8000/live/solosudiotv/solosudiotv/63.ts
-
-#EXTINF:-1,BeIN_Sport_05_HD2
-http://173.249.22.88:8000/live/solosudiotv/solosudiotv/67.ts
-
-#EXTINF:-1,BeIN_Sport_06_HD2
-http://173.249.22.88:8000/live/solosudiotv/solosudiotv/68.ts
-
+#EXTINF:-1,TV3LPC- ISO-AR-BEIN SPORT 2
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1371.ts
 #EXTINF:-1,iptv4sat.com RO: DigiSport 3
 http://5.189.187.55:8000/live/nour/skype/2802.ts
 
@@ -211,17 +181,11 @@ http://5.189.187.55:8000/live/nour/skype/2083.ts
 #EXTINF:-1,UK: BT Sport Extra 2
 http://5.189.187.55:8000/live/nour/skype/464.ts
 
-#EXTINF:-1,TR: BEIN SPORTS 4 HD
-http://5.189.187.55:8000/live/nour/skype/863.ts
-
 #EXTINF:-1,TR: BEIN SPORTS 2 HD
 http://5.189.187.55:8000/live/nour/skype/862.ts
 
 #EXTINF:-1,TR: LIGTV 1 HD
 http://5.189.187.55:8000/live/nour/skype/1993.ts
-
-#EXTINF:-1,TR: LIGTV 1
-http://5.189.187.55:8000/live/nour/skype/861.ts
 
 #EXTINF:-1,TR: LIG TV HD
 http://5.189.187.55:8000/live/nour/skype/2370.ts
@@ -364,9 +328,6 @@ http://5.189.187.55:8000/live/nour/skype/778.ts
 #EXTINF:-1,AR: Bein Sports 1 HD
 http://5.189.187.55:8000/live/nour/skype/779.ts
 
-#EXTINF:-1,AR: Bein Sports 1
-http://5.189.187.55:8000/live/nour/skype/2470.ts
-
 #EXTINF:-1,iptv4sat.com TR | beIN SPORTS HD 1 SD
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/11.ts
 
@@ -394,41 +355,8 @@ http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/514.ts
 #EXTINF:-1,TR | beIN SPORTS HD 3
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/2.ts
 
-#EXTINF:-1,TR | beIN SPORTS HD 3 +
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/8.ts
-
-#EXTINF:-1,TR | beIN SPORTS HD 4
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1.ts
-
-#EXTINF:-1,TR | beIN SPORTS HABER HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/214.ts
-
-#EXTINF:-1,TR | beIN SPORTS MAX 2 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/5.ts
-
-#EXTINF:-1,TR | SPORT EXTRA 2 ( BJK ) T
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/3121.ts
-
-#EXTINF:-1,TR | tivibu SPOR 1 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/17.ts
-
 #EXTINF:-1,TR | tivibu SPOR 2 HD
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/16.ts
-
-#EXTINF:-1,TR | EURO SPORT 2HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/22.ts
-
-#EXTINF:-1,TR | NBA TV HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/532.ts
-
-#EXTINF:-1,TR | SMARTSPOR 1 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/12.ts
-
-#EXTINF:-1,TR | FB TV
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/25.ts
-
-#EXTINF:-1,TR | BURSA SPOR TV
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/27.ts
 
 #EXTINF:-1,TR | TJK TV
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/26.ts
@@ -481,9 +409,6 @@ http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1441.ts
 #EXTINF:-1,°NL | ZIGGO SPORT EXTRA 2
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1440.ts
 
-#EXTINF:-1,°NL | ZIGGO SPORT RACING
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1437.ts
-
 #EXTINF:-1,BG | Diema Sport
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1691.ts
 
@@ -513,285 +438,3 @@ http://man-iptv.spdns.de:8000/live/man.iptv2018/man.iptv1312/2543.ts
 
 #EXTINF:-1,Sharjah Sports
 http://man-iptv.spdns.de:8000/live/man.iptv2018/man.iptv1312/2547.ts
-
-#EXTINF:-1,ARENA SPORT 1 low
-http://man-iptv.spdns.de:8000/live/man.iptv2018/man.iptv1312/3345.ts
-
-#EXTINF:-1,ARENA SPORT 2 low
-http://man-iptv.spdns.de:8000/live/man.iptv2018/man.iptv1312/3346.ts
-
-#EXTINF:-1,ARENA SPORT 3 low
-http://man-iptv.spdns.de:8000/live/man.iptv2018/man.iptv1312/3347.ts
-
-#EXTINF:-1,ARENA SPORT 4 low
-http://man-iptv.spdns.de:8000/live/man.iptv2018/man.iptv1312/3348.ts
-
-#EXTINF:-1,iptv4sat.com beIN SPORTS 1HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/173.ts
-
-#EXTINF:-1,beIN SPORTS 2HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/174.ts
-
-#EXTINF:-1,beIN SPORTS 3HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/175.ts
-
-#EXTINF:-1,beIN SPORTS 4HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/176.ts
-
-#EXTINF:-1,beIN SPORTS 5HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/177.ts
-
-#EXTINF:-1,beIN SPORTS 6HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/178.ts
-
-#EXTINF:-1,beIN SPORTS 7HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/179.ts
-
-#EXTINF:-1,beIN www.iptv4sat.com SPORTS 8HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/180.ts
-
-#EXTINF:-1,beIN SPORTS 9HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/181.ts
-
-#EXTINF:-1,beIN SPORTS 10HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/182.ts
-
-#EXTINF:-1,beIN SPORTS 11 HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/183.ts
-
-#EXTINF:-1,beIN SPORTS 12 HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/184.ts
-
-#EXTINF:-1,BEIN-SPORT-1=iptv4sat.com LOW
-http://egyman.net:1978/live/ahmed1/ahmed2/4937.ts
-
-#EXTINF:-1,BEIN-SPORT-2=LOW
-http://egyman.net:1978/live/ahmed1/ahmed2/4936.ts
-
-#EXTINF:-1,BEIN-SPORT-3=LOW
-http://egyman.net:1978/live/ahmed1/ahmed2/4935.ts
-
-#EXTINF:-1,BEIN-SPORT-4=LOW
-http://egyman.net:1978/live/ahmed1/ahmed2/4934.ts
-
-#EXTINF:-1,BEIN-SPORT-5=LOW
-http://egyman.net:1978/live/ahmed1/ahmed2/4933.ts
-
-#EXTINF:-1,BEIN-SPORT-6=LOW
-http://egyman.net:1978/live/ahmed1/ahmed2/4932.ts
-
-#EXTINF:-1,BEIN-SPORT-7=LOW
-http://egyman.net:1978/live/ahmed1/ahmed2/4931.ts
-
-#EXTINF:-1,BEIN-SPORT-8=LOW
-http://egyman.net:1978/live/ahmed1/ahmed2/4930.ts
-
-#EXTINF:-1,BEIN-SPORT-9=iptv4sat.com LOW
-http://egyman.net:1978/live/ahmed1/ahmed2/4929.ts
-
-#EXTINF:-1,BEIN-SPORT-1=512
-http://egyman.net:1978/live/ahmed1/ahmed2/2.ts
-
-#EXTINF:-1,BEIN-SPORT-2=512
-http://egyman.net:1978/live/ahmed1/ahmed2/3.ts
-
-#EXTINF:-1,BEIN-SPORT-3=512
-http://egyman.net:1978/live/ahmed1/ahmed2/4.ts
-
-#EXTINF:-1,BEIN-SPORT-4=512
-http://egyman.net:1978/live/ahmed1/ahmed2/6.ts
-
-#EXTINF:-1,BEIN-SPORT-5=512
-http://egyman.net:1978/live/ahmed1/ahmed2/7.ts
-
-#EXTINF:-1,BEIN-SPORT-6=512
-http://egyman.net:1978/live/ahmed1/ahmed2/8.ts
-
-#EXTINF:-1,BEIN-SPORT-7=512
-http://egyman.net:1978/live/ahmed1/ahmed2/9.ts
-
-#EXTINF:-1,BEIN-SPORT-8=512
-http://egyman.net:1978/live/ahmed1/ahmed2/10.ts
-
-#EXTINF:-1,BEIN-SPORT-9=512
-http://egyman.net:1978/live/ahmed1/ahmed2/11.ts
-
-#EXTINF:-1,BEIN-SPORT-10=iptv4sat.com 512
-http://egyman.net:1978/live/ahmed1/ahmed2/12.ts
-
-#EXTINF:-1,BEIN-SPORT-1=FULL-HD
-http://egyman.net:1978/live/ahmed1/ahmed2/4885.ts
-
-#EXTINF:-1,BEIN-SPORT-2=FULL-HD
-http://egyman.net:1978/live/ahmed1/ahmed2/4884.ts
-
-#EXTINF:-1,BEIN-SPORT-3=FULL-HD
-http://egyman.net:1978/live/ahmed1/ahmed2/4883.ts
-
-#EXTINF:-1,BEIN-SPORT-7=FULL-HD
-http://egyman.net:1978/live/ahmed1/ahmed2/4879.ts
-
-#EXTINF:-1,BEIN-SPORT-8=FULL-HD
-http://egyman.net:1978/live/ahmed1/ahmed2/4878.ts
-
-#EXTINF:-1,BEIN-SPORT-9=FULL-HD
-http://egyman.net:1978/live/ahmed1/ahmed2/4877.ts
-
-#EXTINF:-1,BEIN-SPORT-1=4K iptv4sat.com
-http://egyman.net:1978/live/ahmed1/ahmed2/4609.ts
-
-#EXTINF:-1,BEIN-SPORT-2=4K
-http://egyman.net:1978/live/ahmed1/ahmed2/4610.ts
-
-#EXTINF:-1,BEIN-SPORT-5=4K
-http://egyman.net:1978/live/ahmed1/ahmed2/4613.ts
-
-#EXTINF:-1,AD SPORT HD2
-http://egyman.net:1978/live/ahmed1/ahmed2/6860.ts
-
-#EXTINF:-1,AD SPORT HD3
-http://egyman.net:1978/live/ahmed1/ahmed2/6861.ts
-
-#EXTINF:-1,TR:BEIN_SPORTS_LIG_TV1
-http://egyman.net:1978/live/ahmed1/ahmed2/6319.ts
-
-#EXTINF:-1,Uk: Sky Sports Box
-http://egyman.net:1978/live/ahmed1/ahmed2/6501.ts
-
-#EXTINF:-1,UK:BT_SPORT_2
-http://egyman.net:1978/live/ahmed1/ahmed2/6498.ts
-
-#EXTINF:-1,UK:BT_Sports_ESPN
-http://egyman.net:1978/live/ahmed1/ahmed2/6500.ts
-
-#EXTINF:-1,UK:Premier_Sport
-http://egyman.net:1978/live/ahmed1/ahmed2/6483.ts
-
-#EXTINF:-1,UK:Sky Sports
-http://egyman.net:1978/live/ahmed1/ahmed2/6479.ts
-
-#EXTINF:-1,UK:Sky Sports Premier league
-http://egyman.net:1978/live/ahmed1/ahmed2/6480.ts
-
-#EXTINF:-1,iptv4sat.com AR:beIN SPORT 1 HD
-http://188.93.238.184:8000/live/snet/snet/37774.ts
-
-#EXTINF:-1,AR:beIN SPORT 10 HD
-http://188.93.238.184:8000/live/snet/snet/37783.ts
-
-#EXTINF:-1,AR:beIN SPORT 11 HD
-http://188.93.238.184:8000/live/snet/snet/37784.ts
-
-#EXTINF:-1,AR:beIN SPORT 12 HD
-http://188.93.238.184:8000/live/snet/snet/37785.ts
-
-#EXTINF:-1,AR: Bein Sports 8 HD
-http://188.93.238.184:8000/live/snet/snet/375.ts
-
-#EXTINF:-1,AR: Bein Sports 9 HD
-http://188.93.238.184:8000/live/snet/snet/376.ts
-
-#EXTINF:-1,UK@ Sky Sports Main Event (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/36513.ts
-
-#EXTINF:-1,UK@ Sky Sports Prem Lge HD
-http://188.93.238.184:8000/live/snet/snet/36514.ts
-
-#EXTINF:-1,UK@ Sky Sports Prem Lge (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/13633.ts
-
-#EXTINF:-1,UK@ Sky Sports Football HD
-http://188.93.238.184:8000/live/snet/snet/12451.ts
-
-#EXTINF:-1,UK@ Sky Sports Football (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/37400.ts
-
-#EXTINF:-1,UK@ Sky Sports Cricket HD
-http://188.93.238.184:8000/live/snet/snet/37955.ts
-
-#EXTINF:-1,UK@ Sky Sports F1 HD
-http://188.93.238.184:8000/live/snet/snet/9721.ts
-
-#EXTINF:-1,UK@ Sky Sports F1(Backup-1)
-http://188.93.238.184:8000/live/snet/snet/9722.ts
-
-#EXTINF:-1,UK@ Sky Sports Arena HD
-http://188.93.238.184:8000/live/snet/snet/11911.ts
-
-#EXTINF:-1,UK@ Sky Sports Arena (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/37294.ts
-
-#EXTINF:-1,UK@ Sky Sports News HQ
-http://188.93.238.184:8000/live/snet/snet/9725.ts
-
-#EXTINF:-1,UK@ Sky Sports News (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/37299.ts
-
-#EXTINF:-1,UK@Sky Sports Golf HD
-http://188.93.238.184:8000/live/snet/snet/37569.ts
-
-#EXTINF:-1,UK@ Sky Sports Golf (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/32594.ts
-
-#EXTINF:-1,UK@ Sky Sports Action HD
-http://188.93.238.184:8000/live/snet/snet/36509.ts
-
-#EXTINF:-1,UK@ Sky Sports Action (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/36510.ts
-
-#EXTINF:-1,UK@ Sky Sports Mix HD
-http://188.93.238.184:8000/live/snet/snet/9723.ts
-
-#EXTINF:-1,UK@ Sky Sports Mix (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/29507.ts
-
-#EXTINF:-1,UK@ Eurosport 1 HD
-http://188.93.238.184:8000/live/snet/snet/29815.ts
-
-#EXTINF:-1,UK@ Eurosport 2 HD
-http://188.93.238.184:8000/live/snet/snet/10763.ts
-
-#EXTINF:-1,UK@ BT Sport 1 HD
-http://188.93.238.184:8000/live/snet/snet/36515.ts
-
-#EXTINF:-1,UK@ BT Sport 1 (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/32859.ts
-
-#EXTINF:-1,UK@ BT Sport 2 HD
-http://188.93.238.184:8000/live/snet/snet/37956.ts
-
-#EXTINF:-1,UK@ BT Sport 2 (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/37153.ts
-
-#EXTINF:-1,UK@ BT Sport 3 HD
-http://188.93.238.184:8000/live/snet/snet/32931.ts
-
-#EXTINF:-1,UK@ BT Sport 3 (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/32223.ts
-
-#EXTINF:-1,UK@ BT Sport Espn HD
-http://188.93.238.184:8000/live/snet/snet/10759.ts
-
-#EXTINF:-1,UK@ BT Sport Espn (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/10760.ts
-
-#EXTINF:-1,MY@ .Astro Sports
-http://188.93.238.184:8000/live/snet/snet/36505.ts
-
-#EXTINF:-1,MY@ .SkyNet Sports 1
-http://188.93.238.184:8000/live/snet/snet/36504.ts
-
-#EXTINF:-1,MY@ .SkyNet Sports 2
-http://188.93.238.184:8000/live/snet/snet/36503.ts
-
-#EXTINF:-1,MY@ .SkyNet Sports 3
-http://188.93.238.184:8000/live/snet/snet/36502.ts
-
-#EXTINF:-1,MY@ .SkyNet Sports 4
-http://188.93.238.184:8000/live/snet/snet/36501.ts
-
-#EXTINF:-1,MY@ .SkyNet Sports 5
-http://188.93.238.184:8000/live/snet/snet/36500.ts
-
-#EXTINF:-1,MY@ .SkyNet Sports 6
-http://188.93.238.184:8000/live/snet/snet/36499.ts
