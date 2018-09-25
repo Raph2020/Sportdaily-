@@ -6,7 +6,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/keepalive/yes/id/h8rtt
 http://54.39.52.84:8081/FoxNews/myStream/chunks.m3u8?nimblesessionid=2732086&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDE4IDM6MDA6MTEgUE0maGFzaF92YWx1ZT1qQ2lKb1Q5VU92YTJXMUNRZkdzN0lRPT0mdmFsaWRtaW51dGVzPTM2MA==
 
 #EXTINF:0, CNN
-http://54.39.53.107:8081/CNN/myStream/chunks.m3u8?nimblesessionid=3231206&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDE4IDEyOjQ2OjE0IFBNJmhhc2hfdmFsdWU9MnQvYXdHc2lUbHhuekVibnpFYnFCQT09JnZhbGlkbWludXRlcz0xODA=
+http://54.39.53.107:8081/CNN/myStream/chunks.m3u8?nimblesessionid=3333371&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDE4IDExOjQ5OjAzIFBNJmhhc2hfdmFsdWU9UzRyc2J4emttUUZ1Z3VQZ1MwSXpNZz09JnZhbGlkbWludXRlcz0xODA=
 
 #EXTINF:0,TVC News Nigeria
 https://manifest.googlevideo.com/api/manifest/hls_variant/ei/Bv-oW6XTJJG2j-8Puf210AI/playlist_duration/30/go/1/ipbits/0/manifest_duration/30/requiressl/yes/tx/9474462/ratebypass/yes/itag/0/maudio/1/playlist_type/DVR/keepalive/yes/dover/11/expire/1537823590/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/key/yt6/id/N_s_4sxFhjQ.0/source/yt_live_broadcast/gcr/us/hfr/1/txs/9474456%2C9474458%2C9474459%2C9474460%2C9474462%2C9474463/ip/2600%3A1702%3A1030%3A9270%3Ae9c2%3A4045%3A5fc0%3A3aed/signature/242A9FF63C3C33FFD1E0B20BF68C513C9A5924D0.6707E00049801027EC6850CB431FAF0764997808/file/index.m3u8
